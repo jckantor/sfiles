@@ -1,0 +1,8 @@
+# private folders
+bibliography/
+
+# hidden files
+.*
+!/.gitignore
+
+
