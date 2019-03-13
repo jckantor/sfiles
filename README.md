@@ -11,7 +11,7 @@ This repository contains experiments in the parsing and processing of SFILES str
 
 * d'Anterroches, Loïc Process Flow Sheet Generation & Design through a Group Contribution Approach Kgs. Lyngby: Technical University of Denmark (DTU). 2006. (dAnterroches2006a.pdf)
 
-* D&Amp;Apos, Anterroches, Loic, and Gani, Rafiqul. "Computer Aided Methodology for Simultaneous Synthesis, Design & Analysis of Chemical Products-processes." Computer Aided Chemical Engineering 21.C (2006): 853-58. Web.
+* d'Anterroches, Loic, and Gani, Rafiqul. "Computer Aided Methodology for Simultaneous Synthesis, Design & Analysis of Chemical Products-processes." Computer Aided Chemical Engineering 21.C (2006): 853-58. Web.
 
 * Bommareddy, Eden, and Gani. "Computer Aided Flowsheet Design Using Group Contribution Methods." Computer Aided Chemical Engineering 29 (2011): 321-25. Web. (Bommareddy2011.pdf)
 
