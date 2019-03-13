@@ -4,15 +4,16 @@ SFILES is a line notation for describing chemical processes proposed by d'Anterr
 
 This repository contains experiments in the parsing and processing of SFILES strings.
 
-
 ## Notebooks
 
-| | |
-| :--- | ---: |
-| [SFILES Validator](https://nbviewer.jupyter.org/github/jckantor/sfiles/blob/master/notebooks/01_SFILES_Validator.ipynb) | [![Open In Colab](images/badges/colab-badge.svg)](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/01_SFILES_Validator.ipynb) |
-| [Flowsheet Validator](https://nbviewer.jupyter.org/github/jckantor/sfiles/blob/master/notebooks/02_Flowsheet_Validator.ipynb) | [![Open In Colab](images/badges/colab-badge.svg)](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/02_Flowsheet_Validator.ipynb) |
-| [SFILES Parser Factory](https://nbviewer.jupyter.org/github/jckantor/sfiles/blob/master/notebooks/03_SFILES_Parser_Factory.ipynb) | [![Open In Colab](images/badges/colab-badge.svg)](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/03_SFILES_Parser_Factory.ipynb) |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
+The following notebooks demonstrate the parsing and processing of SFILES strings. Clicking on the links will open an executable version of the notebooks in Google CoLaboratory.
+
+| |
+| :--- |
+| [SFILES Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/01_SFILES_Validator.ipynb) |
+| [Flowsheet Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/02_Flowsheet_Validator.ipynb) |
+| [SFILES Parser Factory](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/03_SFILES_Parser_Factory.ipynb) |
+
 
 
 ## Bibiography
