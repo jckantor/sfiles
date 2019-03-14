@@ -11,6 +11,7 @@ The following notebooks demonstrate the parsing and processing of SFILES strings
 * [SFILES Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/01_SFILES_Validator.ipynb)
 * [Flowsheet Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/02_Flowsheet_Validator.ipynb)
 * [SFILES Parser Factory](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/03_SFILES_Parser_Factory.ipynb)
+* [Flowsheet Drawing](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/04_Flowsheet_Drawing.ipynb)
 
 
 ## Bibiography
