@@ -6,7 +6,7 @@ This repository contains experiments in the parsing and processing of SFILES str
 
 ## Notebooks
 
-The following notebooks demonstrate the parsing and processing of SFILES strings. Clicking on the links will open an executable version of the notebooks in Google CoLaboratory.
+The following notebooks demonstrate the parsing and processing of SFILES strings. Clicking on the links will open an executable version of the notebooks in [Google CoLaboratory](https://colab.research.google.com/). Alternatively, the notebooks can be downloaded from the notebooks directory in the [github repository](https://github.com/jckantor/sfiles).
 
 * [SFILES Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/01_SFILES_Validator.ipynb)
 * [Flowsheet Validator](https://colab.research.google.com/github/jckantor/sfiles/blob/master/notebooks/02_Flowsheet_Validator.ipynb)
